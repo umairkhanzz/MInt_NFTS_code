@@ -1,0 +1,19 @@
+{
+  "name": "YGGAB (#007)",
+  "description": "This is an YGGAB with amazing properties.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmVTi2rjNjoicK85ut4bumAC6JqtRzAiKy2jPgrU8VAFMa",
+  "attributes": [
+    {
+      "trait_type": "Price",
+      "value": "$100"
+    },
+    {
+      "trait_type": "Unique ID",
+      "value": "#007"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Series"
+    }
+  ]
+}

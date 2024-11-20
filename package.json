@@ -1,0 +1,21 @@
+{
+  "name": "mintnft",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "Smart contracts for the project",
+  "devDependencies": {
+    "hardhat": "^2.22.16"
+  },
+  "dependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.2.3",
+    "@openzeppelin/contracts": "^5.1.0",
+    "dotenv": "^16.4.5",
+    "ethers": "^5.7.2"
+  }
+}
